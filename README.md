@@ -6,7 +6,7 @@ Some projects I've put the most time into are:
 - 🔭 AstroSim: A astronomical simulation library for Python written in C++ focused on simulating exoplanets and small star systems with some emphasis on detail (through stellar evolution, fusion, and potentially formation).
 - 🎛 MapReduce: An implementation of Google's paralellization framework MapReduce written in C that supports dealing higher-level data like classes.
 
-I'm currently working on [Jacobian](https://github.com/richardfeynmanrocks/Jacobian), [AstroSim](https://github.com/richardfeynmanrocks/astrosim), [nbody](https://github.com/richardfeynmanrocks/nbody), and to some extent, [millenium](https://github.com/richardfeynmanrocks/millennium).
+I'm currently working on [Jacobian](https://github.com/richardfeynmanrocks/Jacobian), [AstroSim](https://github.com/richardfeynmanrocks/astrosim), [nbody](https://github.com/richardfeynmanrocks/nbody), and to some extent, [millennium](https://github.com/richardfeynmanrocks/millennium).
 <!--
 **richardfeynmanrocks/richardfeynmanrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
