@@ -1,15 +1,15 @@
-### Hi there! 👋
+### Hello!
 I'm a student who likes to work on coding projects in their free time. I currently like working on and learning about machine learning (from a more low-level perspective), computer internals and its intersection with code, scientific simulation software, parallelization and fast code, and whatever else catches my interest!
 
 Some projects I've put the most time into are:
-- 🤖 Jacobian: A machine learning library for Python/C++ written in C++ that focuses on maximizing speed whilst still remaining featureful and easy to use. 
-- 🔭 AstroSim: A astronomical simulation library for Python written in C++ focused on simulating exoplanets and small star systems with some emphasis on detail (through stellar evolution, fusion, and potentially formation).
-- 🎛 MapReduce: An implementation of Google's paralellization framework MapReduce written in C that supports dealing higher-level data like classes.
+- Jacobian: A machine learning library for Python/C++ written in C++ that focuses on maximizing speed whilst still remaining featureful and easy to use. 
+- AstroSim: A astronomical simulation library for Python written in C++ focused on simulating exoplanets and small star systems with some emphasis on detail (through stellar evolution, fusion, and potentially formation).
+- MapReduce: An implementation of Google's paralellization framework MapReduce written in C that supports dealing higher-level data like classes.
 
 I'm currently working on...
-- ...preparing for an officialish release of [Jacobian](https://github.com/richardfeynmanrocks/Jacobian).
-- ...going deeper into modelling stars in [AstroSim](https://github.com/richardfeynmanrocks/astrosim).
+- ...implementing a simple x86 virtual machine in [vm](https://github.com/richardfeynmanrocks/vm).
 - ...implementing a tree code method for [nbody](https://github.com/richardfeynmanrocks/nbody).
+- ...preparing for an officialish release of [Jacobian](https://github.com/richardfeynmanrocks/Jacobian).
 <!--
 **richardfeynmanrocks/richardfeynmanrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
