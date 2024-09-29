@@ -1,2 +1,4 @@
-### Hello!
-I'm a student who likes to work on CS projects in their free time. I currently like working on and learning about machine learning (from a more low-level perspective), computer internals and its intersection with code, scientific simulation software, parallelization and fast code, and whatever else catches my interest!
+### Hi!
+I'm David. I'm a student currently studying CS at Carnegie Mellon University who is interested in computer systems, functional programming, writing fast code, and much more! 
+
+I also have a (very under-construction) website at [quantumi.sh](https://quantumi.sh) - this bio is taken from there!
